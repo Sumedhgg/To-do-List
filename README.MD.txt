@@ -1,0 +1,1 @@
+Using the linked list data structure -add, remove, update the tasks, delete the whole list after completing all tasks, take a look at the remaining tasks if there are any and search for any particular task.
